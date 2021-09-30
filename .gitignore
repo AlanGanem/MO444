@@ -1,0 +1,10 @@
+#datafiles
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.zip
+*.7z
+*.rar
+*.txt
+*.sas
