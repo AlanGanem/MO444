@@ -8,3 +8,5 @@
 *.rar
 *.txt
 *.sas
+# env
+MO444env/
